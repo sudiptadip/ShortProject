@@ -1,0 +1,39 @@
+
+    [
+        {
+            "id" : 1,
+            "name": "Computer",
+            "price": 1193,
+            "imgUrl": "https://cdn.pixabay.com/photo/2024/01/08/15/54/defile-8495836_1280.jpg"
+        },
+        {
+            "id" : 2,
+            "name": "Laptop",
+            "price": 2000,
+            "imgUrl": "https://cdn.pixabay.com/photo/2024/01/16/21/25/copenhagen-8513129_640.jpg"
+        },
+        {
+            "id" : 3,
+            "name": "Pen Drive",
+            "price": 193,
+            "imgUrl": "https://cdn.pixabay.com/photo/2023/08/17/09/29/rock-8196075_640.jpg"
+        },
+        {
+            "id" : 4,
+            "name": "SSD",
+            "price": 2193,
+            "imgUrl": "https://cdn.pixabay.com/photo/2024/01/25/22/10/winter-8532742_640.jpg"
+        },
+        {
+            "id" : 5,
+            "name": "Hard Disk",
+            "price": 1293,
+            "imgUrl": "https://cdn.pixabay.com/photo/2024/01/11/09/50/village-8501168_640.jpg"
+        },
+        {
+            "id" : 6,
+            "name": "KeyBoard",
+            "price": 393,
+            "imgUrl": "https://cdn.pixabay.com/photo/2024/01/16/18/22/mushroom-8512804_640.jpg"
+        }
+    ]
